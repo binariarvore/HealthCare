@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "..\Infra\Infra.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Application\Application.csproj", "{EA9142D0-4EFD-4EBA-82F3-DF5B8ED1BB1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{64B3D03C-3590-4154-A8CA-3A4EBBF51C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{EA9142D0-4EFD-4EBA-82F3-DF5B8ED1BB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA9142D0-4EFD-4EBA-82F3-DF5B8ED1BB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA9142D0-4EFD-4EBA-82F3-DF5B8ED1BB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B3D03C-3590-4154-A8CA-3A4EBBF51C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B3D03C-3590-4154-A8CA-3A4EBBF51C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B3D03C-3590-4154-A8CA-3A4EBBF51C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B3D03C-3590-4154-A8CA-3A4EBBF51C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{503454CE-F4C3-48F6-B096-0A14FF86DA11} = {D8B4ADC5-4F11-4E6E-B162-B8AE77C88A1A}
 		{C31FEBE9-257A-4613-B90B-ED7715185F63} = {F7678E1F-E609-47AB-ACE9-97CEE2512F3E}
 		{EA9142D0-4EFD-4EBA-82F3-DF5B8ED1BB1C} = {32377664-80D9-42F7-BDD5-E5D91C9B0336}
+		{64B3D03C-3590-4154-A8CA-3A4EBBF51C59} = {D3D49219-9FD9-4134-B1B5-F159DE9011E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FF92612-BAAC-4B95-A029-C03D10601AB8}
